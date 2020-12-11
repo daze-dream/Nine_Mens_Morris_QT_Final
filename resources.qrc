@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>blue_stone.png</file>
+        <file>blue_stone_selected.png</file>
+        <file>empty.png</file>
+        <file>red_stone.png</file>
+        <file>red_stone_selected.png</file>
+        <file>basic_stone_selected.png</file>
+    </qresource>
+</RCC>
